@@ -6,4 +6,4 @@ Front-end Developer @ Corebiz Global.
 [![Gmail Badge](https://img.shields.io/badge/-leolivm@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leolivm@outlook.com)](mailto:leolivm@outlook.com)
 
 Fullstack software developer and passionate about technology.
-- :purple_heart:   ReactJS | React Native | NodeJS
+- :purple_heart:      ReactJS | React Native | NodeJS
