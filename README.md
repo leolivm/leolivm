@@ -2,8 +2,6 @@
 
 Full-stack software engineer with 8+ years of experience. At [Attend](https://www.attend.tech/) I work on ticketing and commerce platforms used by 100+ organizations across MLB, NBA, NFL, NHL, MLS, NCAA and Live Nation venues, mostly around checkout, payments, fraud prevention and ticketing-vendor integrations.
 
-That work lives in private repositories, so this profile shows my side projects.
-
 ## Side projects
 
 - **[Vermilion](https://github.com/leolivm/vermilion)**: a GPU-accelerated macOS desktop on the AMD Radeon RX 7900 XT, a card with no macOS driver from Apple. Two kernel extensions, a Metal plugin running on Mesa RADV, and the boot-time GPU bring-up. Built with Claude Code.
